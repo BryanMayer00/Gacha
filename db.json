@@ -1,11 +1,25 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+    characters: [
+      {
+        id: 'shoR',
+        name: 'Akiyama Sho',
+        title: 'Engineer',
+        rarity: 'R',
+        owned: false
+      },
+      {
+        id: 'catoSR',
+        name: 'Lunde Cato',
+        title: 'Liar',
+        rarity: 'SR',
+        owned: false
+      },
+      {
+        id: 'yumiyaSSR',
+        name: 'Togami Yumiya',
+        title: 'Phantom Thief',
+        rarity: 'SSR',
+        owned: false
+      }
+    ]
   }
-}
