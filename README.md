@@ -1,0 +1,2 @@
+# Gacha
+Simple gacha project
